@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+icon = "zotero"
+icon_pack = "ai"
+name = "Zotero"
+description = "100%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+icon = "git"
+icon_pack = "fab"
+name = "Git"
+description = "60%" 
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+icon = "markdown"
+icon_pack = "fab"
+name = "Markdown"
+description = "50%"
 
 +++
