@@ -7,6 +7,16 @@
   name = "Home"
   url = "#about"
   weight = 10
+  
+ [[main]]
+   name = "Skills"
+   url = "#skills"
+   weight = 20
+
+ [[main]]
+   name = "Projects"
+   url = "#projects"
+   weight = 30
 
 
 # Link to a PDF of your resume/CV from the menu.
