@@ -1,7 +1,6 @@
 ---
 title: Publications
 
-page_type: publication
 
 # View.
 #   1 = List
