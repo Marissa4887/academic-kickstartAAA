@@ -17,7 +17,12 @@
    name = "Experience"
    url = "#experience"
    weight = 30
-   
+ 
+ [[main]]
+   name = "Publication"
+   url = "#publication"
+   weight = 40
+ 
  
 
 # Link to a PDF of your resume/CV from the menu.
@@ -28,7 +33,7 @@
    weight = 60
 
 
-[[main]]
-   name = "Publications (PDF)"
-   url = "files/pub.pdf"
-   weight = 70
+#[[main]]
+#   name = "Publications (PDF)"
+#   url = "files/pub.pdf"
+#   weight = 70
