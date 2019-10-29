@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Featured Publications
 summary: 
 date: "1999-08-01T00:00:00Z"
 
@@ -13,6 +13,16 @@ header:
   caption: ""
   image: ""
 ---
-Co-Researcher. Capstone: Salas, M (1999). Benefit-Cost Analysis for Bay County Local Hazard Mitigation Strategy. 
+Researcher
 
-Bay County reviews and updates the Local Mitigation Strategy (LMS). The BCA is one of the steps in this process that allows the County Commissioners to weigh the costs and benefits of work proposed in the report. The goal is to provide information of the value of the proposed budget by the Florida Division of Emergency Management's Hazard Mitigation Division.  The LMS is adopted by every local municipal Board and the County Board at a public meeting. Members of the public, together with private-non-profits, colleges, together with interested businesses and organizations, State and/or Federal Agencies participate in this process.
+1999 	Co-Researcher. Capstone: Salas, M (1999). Benefit-Cost Analysis for Bay County Local Hazard Mitigation Strategy. 
+
+1999 	Map Research. Mapping hazards, Martin, S., Environmental hazard perception: Taylor County’s Dilemma, University Press of Florida, 1999. 
+
+Research Assistant
+
+2011	Research Assistant, P. Doan chapters, Doan, P. L. (2011). Queerying Planning: Challenging Heteronormative Assumptions and Reframing Planning Practice. Ashgate Publishing, Ltd.
+
+2004 	Data Research Project Manager, Dang, A., & Fraser, S. (2004). Same-sex Couple Households in the United States: A Report from the 2000 Census. Retrieved from https://www.thetaskforce.org.
+
+1998 	Research Assistant, Ruiz, M. (1999), ‘Using Trip Diaries to Improve Real-time Geocoding’, GeoSpatial Information & Technology Association Conference, Chicago, IL., Aurora, CO.
