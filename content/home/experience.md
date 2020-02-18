@@ -61,8 +61,8 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = ""
-  date_start = "1995-01-01"
-  date_end = "2007-01-01"
+  date_start = "1998-01-01"
+  date_end = ""
   description = """
   Summary:
   
