@@ -19,14 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "University & K-12 Education"
+  title = "Teaching: University & K-12 Education"
   company = ""
   company_url = ""
   location = ""
   date_start = "1999-01-01"
   date_end = "2014-01-01"
   description = """
-  Summary:
   
   * Seminar: Planner’s Experience, Urban Knights Planning Association, University of Central Florida, FL. (2014)
   * Seminar: Geography at Work (12th), Windermere Preparatory School, Windermere, FL. (2005)
@@ -39,15 +38,14 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Professional and Civic"
+  title = "Teaching: Professional and Civic"
   company = ""
   company_url = ""
   location = ""
   date_start = "1995-01-01"
   date_end = "2007-01-01"
   description = """
-  Summary:
-  
+    
  * Online Trainer: GIS & Social Science Research Trainer, Lopez & Cheung, LLC, Seattle, WA (2002 - 2007)
  * Trainer: GIS & Work Management System Trainer, National Grid, Boston, MA (1999 - 2002)
  * Trainer, Civic engagement and leadership, Statewide, FL (2012 - 2018)
@@ -62,9 +60,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "1998-01-01"
-  date_end = ""
+  date_end = "2019-01-01"
   description = """
-  Summary:
   
  * Principle of Marissa Salas Consulting, Orlando, FL. (2007 - present)
  * Planner, Community Development Department, City of Largo, FL. (2008)
