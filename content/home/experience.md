@@ -56,5 +56,25 @@ date_format = "Jan 2006"
 
   """
 
+[[experience]]
+  title = "Work Experience"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "1995-01-01"
+  date_end = "2007-01-01"
+  description = """
+  Summary:
+  
+ * Principle of Marissa Salas Consulting, Orlando, FL. (2007 - present)
+ * Planner, Community Development Department, City of Largo, FL. (2008)
+ * Senior Project Director, Lopez & Cheung, Inc., Seattle, WA. (2002 - 2007) 
+ * Software Test Manager, GIS Analyst, Geonetics, Inc., Boston, MA. (1999 - 2002)
+ * Adjunct, Introduction to Human Geography, Florida State University, Tallahassee, FL. (1999)
+ * Graduate Research Assistant, 1998 - 1999, Planning Department, FSU
+ * Graduate Research Assistant, 1998, Geography Department, FSU
+
+  """
+
 
 +++
