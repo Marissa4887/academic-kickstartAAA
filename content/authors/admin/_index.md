@@ -30,7 +30,7 @@ education:
   - course: MSP Urban and Regional Planning
     institution: Florida State University
     year: 1999
-  - course: BS in Interdicplinary Social Science
+  - course: BS in Interdisciplinary Social Science
     institution: Florida State University
     year: 1997
 
