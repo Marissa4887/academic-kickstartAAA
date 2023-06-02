@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD Student in Digial Media
     institution: University of Central Florida
-    year: expected 2023
+    year: expected 2024
   - course: MSP Urban and Regional Planning
     institution: Florida State University
     year: 1999
@@ -63,5 +63,5 @@ user_groups:
 - Visitors
 ---
 
-Marissa is a student of digital media and humanities at UCF's Text & Technology PhD Program. Her research interests include digital cutlure, autonomous vehicle technologies, programming and digital ethics.
+Marissa is a student of digital media and humanities at UCF's Text & Technology PhD Program. Her research interests include digital culture, soundscapes, autonomous vehicle technologies, programming and digital ethics.
  
